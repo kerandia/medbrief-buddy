@@ -1,0 +1,7 @@
+gradio>=4.44
+huggingface_hub>=0.25
+openai>=1.0
+pillow>=10.0
+pytesseract>=0.3.13
+python-dotenv>=1.0
+modal>=1.0
