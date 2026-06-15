@@ -13,6 +13,10 @@ license: mit
 
 Live Space: https://huggingface.co/spaces/build-small-hackathon/medbrief-buddy
 
+GitHub: https://github.com/kerandia/medbrief-buddy
+
+Demo video: https://youtu.be/T5X1to7H6Ls
+
 Upload a German medical document photo: discharge letter, doctor letter, lab
 report, referral, medication plan, or a specialty report such as an eye report.
 The app extracts the text, identifies structured medical sections, and explains
